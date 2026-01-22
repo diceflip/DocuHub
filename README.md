@@ -36,7 +36,15 @@ Most document tools require uploading sensitive files to unknown servers. DocuHu
 ✅ **Single Repository** – Easy to contribute, easy to maintain  
 
 ---
+## 🧑‍💻 Contribution Workflow
+- DocuHub follows a maintainer-approved contribution process.
+- Browse existing issues and pick one.
+- If you have a new idea or bug report, open an issue first.
+- Wait for maintainer approval before starting work.
+- Once approved and labeled, you may begin development.
+- Submit a pull request with a clear description.
 
+Unapproved pull requests may be closed to maintain code quality.
 ## ✨ Features
 
 ### 📄 PDF Operations
